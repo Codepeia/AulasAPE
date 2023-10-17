@@ -1,0 +1,61 @@
+.navbar{
+    background-color:greenyellow    ;
+    height: 20vh;
+    
+}
+#navbarNav{
+    justify-content: center;
+    background-color: aliceblue;
+}
+.container-fluid{
+    background-color: grey;
+}
+.navbar-nav{
+    background-color: aquamarine;
+    width: 50%;
+    justify-content: center;
+}   
+.nav-item{
+    padding-left:10px;
+    padding-right:10px;
+
+}
+
+.nav-link{
+    font-family: cursive;
+    color: rgb(202, 48, 48);
+   
+}
+.nav-link:hover{
+    background-color: chocolate ;
+}
+
+@media screen and (max-width:1000px){
+    .navbar-nav{
+        background-color:rgb(214, 157, 137);
+        width: 100%;
+    } 
+    .nav-link{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 10px;
+    }
+    .nav-link:hover{
+        background-color: white ;
+    }
+}
+
+@media screen and (max-width:600px){
+    .navbar-nav{
+        background-color:rgb(201, 220, 228);
+        width: 100%;
+    } 
+    .nav-link{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 10px;
+    }
+    .nav-link:hover{
+        background-color: white ;
+    }
+}

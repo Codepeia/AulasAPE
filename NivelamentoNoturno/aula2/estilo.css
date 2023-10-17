@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+}
+
+body{
+    background-color: rgb(138, 138, 155);
+}
+header{
+    background-color: coral;
+    width: 100%;
+    height: 17vh; 
+}
+.secao_article{
+    width: 100%; 
+    height: 40vh;
+    background-color: rgb(168, 172, 140); 
+}
+ #secao2{
+    height: 60vh;
+    background-image: linear-gradient(to right, rgb(7, 7, 7), yellow);
+}
+.fonte{
+    font-size: 50px;
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer{
+    width: 100%;
+    height: 25vh;
+    background-color: rgb(108, 145, 214); 
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: #eec9c0;
+}
+h1{
+    color: palevioletred;
+    font-family: cursive;
+    font-size: 70px;
+}
+h2{
+    color: green;
+}
+p{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
